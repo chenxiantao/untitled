@@ -9,5 +9,6 @@ public class gitTest {
 
         System.out.println("master");
         System.out.println("push text");
+        System.out.println("pull text");
     }
 }
